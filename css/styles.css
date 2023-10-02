@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: grey;
+}
+
+.image-film {
+  width: 300px;
+  border-radius: 10px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.image-film:hover {
+  opacity: 1;
+}
+
+h1 {
+  color: white
+}
